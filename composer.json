@@ -1,0 +1,22 @@
+{
+    "name": "vyctory/venus-phpdoc",
+    "license": "MIT",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "library to read a phpdoc",
+    "keywords": ["library", "php"],
+    "homepage": "https://github.com/vyctory/venus-phpdoc",
+    "authors": [
+        {
+            "name": "Paquet Judicaël",
+            "email": "judicael.paquet@gmail.com",
+            "role": "CIO"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "VenusPhpdoc\\": "" }
+    },
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
